@@ -7,4 +7,4 @@ AppTransport est une application mobile developpee pour des compagnies de transp
 - Avoir les horaires des bus
 
 # Screenshot
-<img src="https://i.imgur.com/HVUwjVj.png" alt="aproximite />
+<img src="https://i.imgur.com/HVUwjVj.png" alt="aproximite "/>
