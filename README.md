@@ -1,9 +1,13 @@
 # AppTransport
-AppTransport est une application mobile developpee pour des compagnies de transport. Elle offre aux utilisateurs les options suivantes:
+AppTransport is a mobile application developed for transport companies. It offers users the following options:
 
-# User Story
-- Suivi en temps reel des bus
-- Reservation en utilisant un moyen de paiement
-- Avoir les horaires des bus
+# User Story 
+- Real time bus tracking
+- Reservation using a payment method
+- Have bus schedules
 
 # Screenshot
+<img src='https://i.imgur.com/khClMCJ.png' width="300" />
+<img src='https://i.imgur.com/pIoBj06.png' width="300" />
+
+<img src='https://i.imgur.com/JbgGuR0.png' width="300" />
