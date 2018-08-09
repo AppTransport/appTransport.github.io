@@ -1,6 +1,6 @@
 # AppTransport
-AppTransport est une application ayant les fonctionnalites suivantes:
+AppTransport est une application mobile developpee pour des compagnies de transport.Elle offre a un utilisateur les options suivantes:
 
 - Suivi en temps reel des bus
 - Reservation en utilisant un moyen de paiement
-- Horaire des bus
+- Avoir les horaires des bus
