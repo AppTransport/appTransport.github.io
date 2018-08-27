@@ -22,7 +22,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button2" />
+        app:layout_constraintTop_toBottomOf="@+id/btn_connect" />
 
     <Button
         android:id="@+id/btn_connect"
@@ -33,9 +33,26 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="407dp"
+        android:layout_marginTop="5dp"
         android:background="@android:color/transparent"
         app:layout_constraintBottom_toTopOf="@+id/button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_compte" />
+
+    <Button
+        android:id="@+id/btn_compte"
+        android:layout_width="345dp"
+        android:layout_height="63dp"
+
+        android:layout_marginBottom="5dp"
+        android:layout_marginEnd="23dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="23dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="349dp"
+        android:background="@android:color/transparent"
+        app:layout_constraintBottom_toTopOf="@+id/btn_connect"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
