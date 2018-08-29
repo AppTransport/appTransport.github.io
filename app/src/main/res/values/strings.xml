@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AppTransport</string>
+    <string name="Recherche" />
+    <string name="nav_recherche">Recherche</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_plus">Plus</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>

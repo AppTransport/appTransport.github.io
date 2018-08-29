@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/id_suivi"
+    android:title="Suivi Bus"/>
+    <item android:id="@+id/id_reservation"
+        android:title="Reservation"/>
+    <item android:id="@+id/id_help"
+        android:title="Aide"/>
+</menu>
